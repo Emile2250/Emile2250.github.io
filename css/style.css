@@ -1,0 +1,15 @@
+body {
+	background-image: url(../res/img/bg.jpg);
+	background-attachment: fixed;
+	background-position: center;
+}
+
+#container {
+	background-color: rgba(255,255,255,0.7);
+	margin: 50px 50px 50px 50px;
+	height: 1500px;
+}
+
+.center {
+	text-align: center;
+}
